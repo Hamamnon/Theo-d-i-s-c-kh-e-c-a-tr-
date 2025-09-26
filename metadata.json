@@ -1,0 +1,5 @@
+{
+  "name": "Theo dõi, đánh giá sự phát triển của trẻ",
+  "description": "Một ứng dụng web để theo dõi chiều cao và cân nặng cho học sinh mầm non, sử dụng AI để đưa ra đánh giá và khuyến nghị phát triển.",
+  "requestFramePermissions": []
+}
